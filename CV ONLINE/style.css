@@ -5,8 +5,8 @@ body {
   }
   
   header {
-    background-color: #333;
-    color: #fff;
+    background-color: rgb(193, 113, 16);
+    color: rgb(0, 0, 0);
     text-align: center;
     padding: 50px 0;
   }
@@ -47,8 +47,8 @@ body {
   }
   
   footer {
-    background-color: #333;
-    color: #fff;
+    background-color: rgb(193,113,16);
+    color: rgb(0, 0, 0);
     text-align: center;
     padding: 20px 0;
   }
